@@ -62,7 +62,7 @@ with Inge van den Bijgaart and Jacob A. Jordaan
 
 ::: {.paper}
 ::: {.paper-title}
-The Welfare Gains from Income-Targeting Green Subsidies
+Can Regressive Green Subsidies Be Justified by Abatement and Efficiency?
 :::
 ::: {.coauthors}
 with Joep Keuzenkamp
@@ -79,7 +79,7 @@ income-targeting the subsidy schedule would be worth.
 Relieving Credit Constraints in the Energy Transition: Adoption, Policy Interactions, and Welfare
 :::
 ::: {.coauthors}
-with Inge van den Bijgaart and L. Sileci
+with Inge van den Bijgaart and Lorenzo Sileci
 :::
 ::: {.abstract}
 We study the Dutch zero-interest green loan scheme using CBS administrative
