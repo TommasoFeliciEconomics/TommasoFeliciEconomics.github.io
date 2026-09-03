@@ -215,6 +215,7 @@ h2 {
 main.content {
   display: grid;
   grid-template-columns: 275px minmax(0, 1fr);
+  margin-left: -48px;
   column-gap: 4.2rem;
   row-gap: 0 !important;
   max-width: none;
@@ -227,7 +228,7 @@ main.content {
   grid-row: 1;
   width: 100vw;
   position: relative;
-  left: 50%;
+  left: calc(50% + 48px);
   transform: translateX(-50%);
   height: 340px;
   background-image: url('images/banner.jpg');
@@ -253,8 +254,8 @@ main.content {
   grid-column: 1;
   grid-row: 2 / span 99;
   align-self: stretch;
-  background: #1c2b36;
-  box-shadow: -100vw 0 0 #1c2b36;
+  background: #1f3d2c;
+  box-shadow: -100vw 0 0 #1f3d2c;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -280,7 +281,7 @@ main.content {
   letter-spacing: 0.01em;
 }
 
-.masthead a:hover { color: #7ec5e6; }
+.masthead a:hover { color: #8fd0a3; }
 
 .masthead a.active {
   color: #ffffff;
@@ -290,7 +291,7 @@ main.content {
   content: "";
   display: block;
   height: 2px;
-  background: #7ec5e6;
+  background: #8fd0a3;
   margin-top: 0.3rem;
   border-radius: 2px;
 }
@@ -299,10 +300,13 @@ main.content > :not(.hero):not(.masthead):not(#title-block-header) {
   grid-column: 2;
 }
 
-main.content > .profile-header,
-main.content > section:first-of-type,
-main.content > h2:first-of-type {
+main.content > :nth-child(5) {
   margin-top: 4.8rem;
+}
+
+@media (max-width: 1279px) {
+  main.content { margin-left: 0; }
+  .hero { left: 50%; }
 }
 
 @media (max-width: 760px) {
@@ -315,5 +319,5 @@ main.content > h2:first-of-type {
   .masthead .navwrap { position: static; transform: none; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 1.3rem; }
   .masthead a { font-size: 1.15rem; }
   main.content > :not(.hero):not(.masthead):not(#title-block-header) { grid-column: 1; }
-  main.content > .profile-header, main.content > section:first-of-type, main.content > h2:first-of-type { margin-top: 1.6rem; }
+  main.content > :nth-child(5) { margin-top: 1.6rem; }
 }
