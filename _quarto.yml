@@ -28,7 +28,7 @@ format:
     # collapsed to zero and the text column is widened and centred.
     grid:
       sidebar-width: 0px
-      body-width: 1080px
+      body-width: 1200px
       margin-width: 0px
       gutter-width: 1.5rem
     anchor-sections: false
