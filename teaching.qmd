@@ -1,0 +1,89 @@
+---
+title: "Teaching"
+---
+
+## Utrecht University School of Economics
+
+::: {.course}
+::: {.course-title}
+Econometrics (ECB2METRIE)
+:::
+::: {.course-meta}
+Bachelor's · 2026 – present
+:::
+:::
+
+::: {.course}
+::: {.course-title}
+Intermediate Macroeconomics: Growth and Sustainability (ECB2VMAE)
+:::
+::: {.course-meta}
+Bachelor's · 2023 – present
+:::
+:::
+
+::: {.course}
+::: {.course-title}
+PPE: Macroeconomics (PP2V18001)
+:::
+::: {.course-meta}
+Bachelor's · 2022 – 2025
+:::
+:::
+
+::: {.course}
+::: {.course-title}
+Intermediate Macroeconomics: International Money (ECB2IMAE)
+:::
+::: {.course-meta}
+Bachelor's · 2022 – 2023
+:::
+:::
+
+::: {.course}
+::: {.course-title}
+Regulating Markets (USG6210)
+:::
+::: {.course-meta}
+Master's · 2022 – 2023
+:::
+:::
+
+## Guest lectures
+
+::: {.course}
+::: {.course-title}
+Climate Policies for Household Decarbonization
+:::
+::: {.course-meta}
+University of Turin · April 2026
+:::
+:::
+
+::: {.course}
+::: {.course-title}
+The Economics of Climate Change
+:::
+::: {.course-meta}
+University College Utrecht · November 2024 and November 2025
+:::
+:::
+
+::: {.course}
+::: {.course-title}
+Climate Change, Economics and Regulatory Policies
+:::
+::: {.course-meta}
+Università degli Studi dell'Insubria · December 2022
+:::
+:::
+
+## Thesis supervision
+
+I supervise bachelor's theses in Applied Economics at Utrecht, most recently a
+cohort of ten in 2026.
+
+Topics I am glad to supervise include the evaluation of climate and energy
+policy, household energy demand and adoption of low-carbon technologies, and the
+distributional consequences of the energy transition. Students with a project of
+their own in these areas are welcome to get in touch.

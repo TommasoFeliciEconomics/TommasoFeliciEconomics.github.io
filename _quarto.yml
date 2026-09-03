@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/
+    - images/
+    - CNAME
+
+website:
+  title: "Tommaso Felici"
+  description: "Environmental and public economist, Utrecht University School of Economics."
+  site-url: "https://tommasofelici.com"
+  favicon: images/favicon.png
+  open-graph: true
+  twitter-card: false
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "&copy; 2026 Tommaso Felici"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    title-block-banner: images/banner.jpg
+    title-block-banner-color: white
+    toc: false
+    # Quarto reserves an empty left column for a sidebar and an empty right
+    # column for the table of contents. Neither is in use here, so both are
+    # collapsed to zero and the text column is widened and centred.
+    grid:
+      sidebar-width: 0px
+      body-width: 900px
+      margin-width: 0px
+      gutter-width: 1.5rem
+    anchor-sections: false
+    link-external-newwindow: true
+    smooth-scroll: true

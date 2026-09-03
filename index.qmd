@@ -1,0 +1,51 @@
+---
+title: "Tommaso Felici"
+---
+
+::: {.profile-header}
+![](images/profile.jpg){fig-alt="Tommaso Felici"}
+
+::: {.profile-intro}
+::: {.affiliation}
+PhD Candidate in Economics<br>
+Utrecht University School of Economics
+:::
+
+I am a PhD candidate at the Utrecht University School of Economics, supervised
+by Inge van den Bijgaart and Jacob A. Jordaan. My dissertation is on climate
+policy design for household decarbonisation.
+
+I work on the design and evaluation of climate policy, and in particular on who
+gains from the instruments meant to decarbonise households, and at what public
+cost. Most of my current research combines Dutch administrative microdata from
+Statistics Netherlands (CBS) with quasi-experimental designs and the Marginal
+Value of Public Funds framework, applied to heat pump subsidies, zero-interest
+green loans, and the political economy of support for climate policy.
+
+Before starting my PhD I completed an MSc in Environmental Economics at the
+University of Turin and a BSc in Economics at Sapienza University of Rome. In
+autumn 2025 I visited the Potsdam Institute for Climate Impact Research and TU
+Berlin, hosted by Linus Mattauch.
+
+At Utrecht I teach econometrics and macroeconomics, and supervise bachelor's
+theses.
+
+::: {.profile-links}
+[Email](mailto:t.felici@uu.nl) · [CV](files/cv.pdf) · [Utrecht University](https://www.uu.nl/staff/TFelici) · [ResearchGate](https://www.researchgate.net/profile/Tommaso-Felici-2)
+:::
+:::
+:::
+
+## Research interests
+
+- Environmental and energy economics
+- Policies for household decarbonisation
+- Public economics and policy evaluation
+- Distributional and efficiency effects of policy mixes
+- Applied microeconometrics
+
+## Contact
+
+Utrecht University School of Economics<br>
+Kriekenpitplein 21–22, 3584 EC Utrecht, The Netherlands<br>
+[t.felici@uu.nl](mailto:t.felici@uu.nl)

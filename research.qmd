@@ -1,0 +1,89 @@
+---
+title: "Research"
+---
+
+<!--
+  HOW TO ADD A PAPER
+  Copy one ::: {.paper} ... ::: block and change the fields.
+  For a PDF you host yourself, put the file in files/ and link to
+  files/your-file.pdf. Delete any link you do not need.
+-->
+
+## Publications
+
+::: {.paper}
+::: {.paper-title}
+Unsustainable global freshwater consumption driven by economic growth
+:::
+::: {.coauthors}
+with V. Frontuto, S. Dalmazzone, B. Falsetti, R. Ignaccolo, F. Laio and M. M. Bagliani
+:::
+::: {.journal}
+*World Development*, 196, 107185 (2025)
+:::
+::: {.paper-links}
+[Journal](https://www.sciencedirect.com/science/article/pii/S0305750X25002712) [PDF](files/freshwater-consumption.pdf)
+:::
+:::
+
+::: {.paper}
+::: {.paper-title}
+Is there an Animal Food Kuznets Curve, and does it matter?
+:::
+::: {.coauthors}
+with V. Frontuto, V. Andreoli, M. M. Bagliani and A. Corsi
+:::
+::: {.journal}
+*Bio-based and Applied Economics*, 1–34 (2024)
+:::
+::: {.paper-links}
+[Journal](https://oaj.fupress.net/index.php/bae/article/view/16172) [PDF](files/animal-food-kuznets-curve.pdf)
+:::
+:::
+
+## Working papers
+
+::: {.paper}
+::: {.paper-title}
+Economic Exposure and Climate Policy Support
+:::
+::: {.coauthors}
+with Inge van den Bijgaart and Jacob A. Jordaan
+:::
+::: {.journal}
+*CESifo Working Paper* (2026)
+:::
+::: {.paper-links}
+[PDF](files/economic-exposure.pdf)
+:::
+:::
+
+## Work in progress
+
+::: {.paper}
+::: {.paper-title}
+The Welfare Gains from Income-Targeting Green Subsidies
+:::
+::: {.coauthors}
+with Joep Keuzenkamp
+:::
+::: {.abstract}
+We evaluate the Dutch ISDE heat pump subsidy and decompose its Marginal Value of
+Public Funds into a transfer component and an abatement component, asking what
+income-targeting the subsidy schedule would be worth.
+:::
+:::
+
+::: {.paper}
+::: {.paper-title}
+Relieving Credit Constraints in the Energy Transition: Adoption, Policy Interactions, and Welfare
+:::
+::: {.coauthors}
+with Inge van den Bijgaart and L. Sileci
+:::
+::: {.abstract}
+We study the Dutch zero-interest green loan scheme using CBS administrative
+microdata, separating the decision to borrow from the decision to adopt, and
+ask how the loan interacts with the heat pump subsidy that runs alongside it.
+:::
+:::
