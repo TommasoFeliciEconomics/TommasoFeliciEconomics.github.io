@@ -207,3 +207,110 @@ h2 {
 .quarto-title-banner .description {
   display: none;
 }
+
+// ===== CUSTOM LAYOUT: full-width banner, centred name, blue left column ====
+
+#title-block-header { display: none; }
+
+main.content {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 1fr);
+  column-gap: 2.8rem;
+  row-gap: 0 !important;
+  max-width: none;
+  padding: 0;
+  align-items: stretch;
+}
+
+.hero {
+  grid-column: 1 / -1;
+  grid-row: 1;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 340px;
+  background-image: url('images/banner.jpg');
+  background-size: cover;
+  background-position: center 42%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+.hero .hero-name {
+  font-family: $font-family-sans-serif;
+  font-weight: 300;
+  font-size: clamp(2.8rem, 6.5vw, 5.4rem);
+  line-height: 1.05;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 0 2px 24px rgba(0, 0, 0, 0.55);
+}
+
+.masthead {
+  grid-column: 1;
+  grid-row: 2 / span 99;
+  align-self: stretch;
+  background: #1c2b36;
+  box-shadow: -100vw 0 0 #1c2b36;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 1rem;
+}
+
+.masthead .navwrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.7rem;
+  position: sticky;
+  top: 2.5rem;
+}
+
+.masthead a {
+  font-family: $font-family-sans-serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #dfe4e9;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+}
+
+.masthead a:hover { color: #7ec5e6; }
+
+.masthead a.active {
+  color: #ffffff;
+  font-weight: 600;
+}
+.masthead a.active::after {
+  content: "";
+  display: block;
+  height: 2px;
+  background: #7ec5e6;
+  margin-top: 0.3rem;
+  border-radius: 2px;
+}
+
+main.content > :not(.hero):not(.masthead):not(#title-block-header) {
+  grid-column: 2;
+}
+
+.profile-header { margin-top: 2.1rem; }
+main.content > h2:first-of-type { margin-top: 2.1rem; }
+
+@media (max-width: 760px) {
+  main.content { grid-template-columns: 1fr; }
+  .hero { height: 210px; }
+  .masthead {
+    grid-column: 1; grid-row: auto; box-shadow: none;
+    padding: 1.1rem 1.2rem; margin-bottom: 1.4rem;
+  }
+  .masthead .navwrap { position: static; transform: none; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 1.3rem; }
+  .masthead a { font-size: 1.15rem; }
+  main.content > :not(.hero):not(.masthead):not(#title-block-header) { grid-column: 1; }
+  .profile-header, main.content > h2:first-of-type { margin-top: 1.4rem; }
+}

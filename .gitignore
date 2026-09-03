@@ -8,3 +8,8 @@
 # Stray files
 .Rhistory
 Claude outputs/
+
+# Backups and image sources
+*.bak
+images/banner-source.jpg
+images/banner-original.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Tommaso Felici"
+title: ""
 description: "PhD candidate in economics at the Utrecht University School of Economics, working on climate policy, green subsidies and household decarbonisation."
 ---
 

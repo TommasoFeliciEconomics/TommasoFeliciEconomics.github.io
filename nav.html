@@ -1,0 +1,17 @@
+<div class="hero"><span class="hero-name">Tommaso Felici</span></div>
+<nav class="masthead">
+  <div class="navwrap">
+    <a href="index.html">About</a>
+    <a href="research.html">Research</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="cv.html">CV</a>
+  </div>
+</nav>
+<script>
+(function(){
+  var p = (location.pathname.split('/').pop() || 'index.html');
+  document.querySelectorAll('.masthead a').forEach(function(a){
+    if (a.getAttribute('href') === p) a.classList.add('active');
+  });
+})();
+</script>

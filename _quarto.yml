@@ -13,35 +13,22 @@ website:
   favicon: images/favicon.png
   open-graph: true
   twitter-card: false
-  navbar:
-    pinned: true
-    left:
-      - href: index.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: teaching.qmd
-        text: Teaching
-      - href: cv.qmd
-        text: CV
   page-footer:
     left: "&copy; 2026 Tommaso Felici"
-    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
     theme:
       - cosmo
       - styles.scss
-    title-block-banner: images/banner.jpg
-    title-block-banner-color: white
+    include-before-body: nav.html
     toc: false
     # Quarto reserves an empty left column for a sidebar and an empty right
     # column for the table of contents. Neither is in use here, so both are
     # collapsed to zero and the text column is widened and centred.
     grid:
       sidebar-width: 0px
-      body-width: 900px
+      body-width: 1080px
       margin-width: 0px
       gutter-width: 1.5rem
     anchor-sections: false
