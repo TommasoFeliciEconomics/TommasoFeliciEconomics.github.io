@@ -9,7 +9,7 @@ project:
 website:
   title: "Tommaso Felici"
   description: "Environmental and public economist, Utrecht University School of Economics."
-  site-url: "https://tommasofelicieconomics.github.io"
+  site-url: "https://tommasofelici.com"
   favicon: images/favicon.png
   open-graph: true
   twitter-card: false
