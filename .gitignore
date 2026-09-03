@@ -4,3 +4,7 @@
 *.log
 
 **/*.quarto_ipynb
+
+# Stray files
+.Rhistory
+Claude outputs/
