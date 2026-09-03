@@ -1,5 +1,6 @@
 ---
 title: "CV"
+description: "Curriculum vitae of Tommaso Felici, PhD candidate in economics at the Utrecht University School of Economics."
 ---
 
 A full curriculum vitae is available as a PDF: [**download CV**](files/cv.pdf).

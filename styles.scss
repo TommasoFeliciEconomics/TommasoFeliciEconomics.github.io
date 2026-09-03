@@ -198,3 +198,12 @@ h2 {
   color: #3a4148;
   margin-bottom: 0.45rem;
 }
+
+
+// The page description feeds the Google search snippet, but Quarto also
+// prints it under the banner title, where it duplicates the affiliation
+// line and sits badly on the photo. Keep the meta tag, hide the text.
+.quarto-title-banner .quarto-title .description,
+.quarto-title-banner .description {
+  display: none;
+}

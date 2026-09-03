@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description: "Courses and bachelor's thesis supervision by Tommaso Felici at the Utrecht University School of Economics."
 ---
 
 ## Utrecht University School of Economics

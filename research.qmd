@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Research by Tommaso Felici on green subsidies, household decarbonisation and the welfare effects of Dutch climate policy, using CBS administrative microdata."
 ---
 
 <!--
