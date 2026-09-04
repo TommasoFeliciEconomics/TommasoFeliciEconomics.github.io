@@ -241,7 +241,7 @@ main.content { max-width: none; padding: 0; }
   position: relative;
   left: 50%;
   transform: translateX(-50%);
-  background: #6b4f3a;
+  background: #1f3d2c;
   display: flex;
   justify-content: center;
   padding: 0;
@@ -250,7 +250,7 @@ main.content { max-width: none; padding: 0; }
 .masthead .navwrap {
   display: flex;
   flex-direction: row;
-  gap: 3rem;
+  gap: 5rem;
 }
 .masthead a {
   font-family: $font-family-sans-serif;
