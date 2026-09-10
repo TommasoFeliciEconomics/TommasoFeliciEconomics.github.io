@@ -69,22 +69,11 @@ Can Regressive Green Subsidies Be Justified by Abatement and Efficiency?
 with Joep Keuzenkamp
 :::
 ::: {.abstract}
-Green subsidies for households often accrue disproportionately to those with high
-incomes. Can this regressivity be justified on environmental grounds? The case
-rests on two premises: that richer households abate more, and that their abatement
-costs the government less per tonne. We quantify subsidy-induced CO₂ abatement and
-its costs across the income distribution for the Dutch heat-pump subsidy (ISDE),
-linking the full daily record of applications to administrative income and
-smart-meter energy data for the universe of Dutch homeowners. We estimate the
-adoption response to an unanticipated increase in the subsidy rate using a
-regression discontinuity in time, and per-installation abatement using a staggered
-difference-in-differences. Combining these estimates, we find that CO₂ abatement
-rises steeply with income, but inframarginal spending rises in step with it,
-leaving the public cost per tonne abated nearly flat. Efficiency therefore
-provides no argument for the regressivity; only the level of abatement does. A
-Marginal Value of Public Funds calculation reveals that welfare per euro of public
-spending is highest among low-income households, driven primarily by the higher
-value of a euro reaching them.
+Subsidies for heat pumps mostly reach richer households. Is that defensible on
+climate grounds? Using Dutch data on the national heat-pump subsidy, we ask
+whether the extra emissions richer households cut, and what those cuts cost the
+taxpayer, justify the pattern — and find that the case for favouring them is
+weaker than it looks.
 :::
 ::: {.paper-links}
 [Abstract (PDF)](files/green-subsidies-abstract.pdf)
