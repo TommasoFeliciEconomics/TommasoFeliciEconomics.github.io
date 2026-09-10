@@ -69,10 +69,27 @@ Can Regressive Green Subsidies Be Justified by Abatement and Efficiency?
 with Joep Keuzenkamp
 :::
 ::: {.abstract}
-We evaluate the Dutch ISDE heat pump subsidy and decompose its Marginal Value of
-Public Funds into a transfer component and an abatement component, asking what
-income-targeting the subsidy schedule would be worth.
+Green subsidies for households often accrue disproportionately to those with high
+incomes. Can this regressivity be justified on environmental grounds? The case
+rests on two premises: that richer households abate more, and that their abatement
+costs the government less per tonne. We quantify subsidy-induced CO₂ abatement and
+its costs across the income distribution for the Dutch heat-pump subsidy (ISDE),
+linking the full daily record of applications to administrative income and
+smart-meter energy data for the universe of Dutch homeowners. We estimate the
+adoption response to an unanticipated increase in the subsidy rate using a
+regression discontinuity in time, and per-installation abatement using a staggered
+difference-in-differences. Combining these estimates, we find that CO₂ abatement
+rises steeply with income, but inframarginal spending rises in step with it,
+leaving the public cost per tonne abated nearly flat. Efficiency therefore
+provides no argument for the regressivity; only the level of abatement does. A
+Marginal Value of Public Funds calculation reveals that welfare per euro of public
+spending is highest among low-income households, driven primarily by the higher
+value of a euro reaching them.
 :::
+::: {.paper-links}
+[Abstract (PDF)](files/green-subsidies-abstract.pdf)
+:::
+*Draft coming soon — available on request.*
 :::
 
 ::: {.paper}
@@ -81,10 +98,5 @@ Relieving Credit Constraints in the Energy Transition: Adoption, Policy Interact
 :::
 ::: {.coauthors}
 with Inge van den Bijgaart and Lorenzo Sileci
-:::
-::: {.abstract}
-We study the Dutch zero-interest green loan scheme using CBS administrative
-microdata, separating the decision to borrow from the decision to adopt, and
-ask how the loan interacts with the heat pump subsidy that runs alongside it.
 :::
 :::
