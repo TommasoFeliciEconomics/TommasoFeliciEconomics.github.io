@@ -19,9 +19,8 @@ policy design for household decarbonisation.
 I work on the design and evaluation of climate policy, and in particular on who
 gains from the instruments meant to decarbonise households, and at what public
 cost. Most of my current research combines Dutch administrative microdata from
-Statistics Netherlands (CBS) with quasi-experimental designs and the Marginal
-Value of Public Funds framework, applied to heat pump subsidies, zero-interest
-green loans, and the political economy of support for climate policy.
+Statistics Netherlands (CBS) with quasi-experimental designs to evaluate the
+effects of subsidies and financing instruments for household decarbonisation.
 
 Before starting my PhD I completed an MSc in Environmental Economics at the
 University of Turin and a BSc in Economics at Sapienza University of Rome. In

@@ -81,11 +81,3 @@ weaker than it looks.
 *Draft coming soon — available on request.*
 :::
 
-::: {.paper}
-::: {.paper-title}
-Relieving Credit Constraints in the Energy Transition: Adoption, Policy Interactions, and Welfare
-:::
-::: {.coauthors}
-with Inge van den Bijgaart and Lorenzo Sileci
-:::
-:::

@@ -284,3 +284,13 @@ main.content > :not(.hero):not(.masthead):not(#title-block-header):not(script) {
 }
 
 body, .quarto-container { background-color: #faf8f4; }
+
+// Justify the body prose. Banner name, nav links, headings, affiliation
+// line and the link rows are deliberately left untouched.
+.profile-intro p,
+.paper .abstract,
+main.content > p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
