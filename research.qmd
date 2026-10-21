@@ -81,3 +81,19 @@ weaker than it looks.
 *Draft coming soon — available on request.*
 :::
 
+::: {.paper}
+::: {.paper-title}
+Bringing Animal Welfare into Policy Evaluation
+:::
+::: {.coauthors}
+with Stefan Thewissen
+:::
+::: {.abstract}
+Policy evaluation routinely weighs the effects of a measure on people, the
+climate and the public budget, but rarely on the welfare of animals themselves.
+This article sets out how animal welfare could be brought into standard policy
+evaluation, and what different types of policy instrument can be expected to
+deliver for it.
+:::
+:::
+

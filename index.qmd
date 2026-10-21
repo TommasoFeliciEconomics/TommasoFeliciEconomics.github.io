@@ -22,6 +22,9 @@ cost. Most of my current research combines Dutch administrative microdata from
 Statistics Netherlands (CBS) with quasi-experimental designs to evaluate the
 effects of subsidies and financing instruments for household decarbonisation.
 
+More recently I have started to work on animal welfare, and on how it might be
+brought into the standard tools of policy evaluation.
+
 Before starting my PhD I completed an MSc in Environmental Economics at the
 University of Turin and a BSc in Economics at Sapienza University of Rome. In
 autumn 2025 I visited the Potsdam Institute for Climate Impact Research and TU
